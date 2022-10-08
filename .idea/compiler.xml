@@ -9,5 +9,9 @@
         <module name="ManagingService" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ManagingService" target="8" />
+      <module name="one-level-up" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
